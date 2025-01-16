@@ -4,7 +4,7 @@
 
 [project]
 name = "markuplint-feedstock"
-version = "3.44.9"
+version = "3.45.2"
 description = "Pixi configuration for conda-forge/markuplint-feedstock"
 authors = ["@conda-forge/markuplint"]
 channels = ["conda-forge"]
