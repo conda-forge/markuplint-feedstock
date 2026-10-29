@@ -1,5 +1,5 @@
 context:
-  version: "5.3.0"
+  version: "5.4.0"
 
 package:
   name: markuplint
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/markuplint/-/markuplint-${{ version }}.tgz
-  sha256: 84a274b964e3c1c87f9b99c3876b1dcdc84618e09c79fc7fccfc3f5626a8f91c
+  sha256: b53f0cad9913cf21d6935ac98b4e3eea1b6f824752c31de4da06ded3556838d0
 
 build:
   number: 0
